@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PreferredVcsStorage">
+        <preferredVcsName>ApexVCS</preferredVcsName>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
