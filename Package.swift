@@ -12,6 +12,7 @@ let package = Package(
         .Package(url:"https://github.com/matthijs2704/vapor-apns.git", majorVersion: 1, minor: 2)
     ],
     exclude: [
+        "Config",
         "Database",
         "Resources",
         "Public",
