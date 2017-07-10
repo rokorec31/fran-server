@@ -1,11 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PreferredVcsStorage">
-        <preferredVcsName>ApexVCS</preferredVcsName>
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
     </defaultProject>
   </component>
